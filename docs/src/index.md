@@ -12,5 +12,5 @@ welcome to my page.
           "chapter/03.md"
           "chapter/04.md"
     ]
-    Depth = 3
+    Depth = 4
 ```
