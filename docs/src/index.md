@@ -1,6 +1,6 @@
 # Home
 
-welcome to my page.
+Mizuto Kadowaki / 門脇 瑞斗 のwebサイトです．
 
 ## 目次
 
