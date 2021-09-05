@@ -16,5 +16,6 @@ Mizuto Kadowaki / 門脇 瑞斗 のwebサイトです．
 ```
 
 
-!!!note
+
+!!! note
     hofgeghoge
