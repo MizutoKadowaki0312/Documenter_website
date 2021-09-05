@@ -2,7 +2,7 @@
 
 Mizuto Kadowaki / 門脇 瑞斗 のwebサイトです．
 
-<img src="/docs/src/chapter/images/intro.png" width="40%"/>
+![](chapter/images/intro.png)
 
 ## 目次
 
