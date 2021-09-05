@@ -15,8 +15,3 @@ Mizuto Kadowaki / 門脇 瑞斗 のwebサイトです．
     ]
     Depth = 2
 ```
-
-
-
-!!! note
-    hofgeghoge
