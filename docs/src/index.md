@@ -2,6 +2,10 @@
 
 Mizuto Kadowaki / 門脇 瑞斗 のwebサイトです．
 
+```@raw html
+<img src = "/chapter/images/intro.png" alt = "画像" title="宣材写真" width="50%" height="50%">
+```
+
 ## 目次
 
 ```@contents
