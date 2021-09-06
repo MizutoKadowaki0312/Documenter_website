@@ -3,7 +3,6 @@
 Mizuto Kadowaki / 門脇 瑞斗 のwebサイトです．
 
 ## contents
-以下の目次，あるいはサイドバーからご覧ください！
 
 ```@contents
     Pages = [
