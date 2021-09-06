@@ -2,7 +2,8 @@
 
 Mizuto Kadowaki / 門脇 瑞斗 のwebサイトです．
 
-![](chapter/images/self.png)
+## contents
+以下の目次，あるいはサイドバーからご覧ください！
 
 ```@contents
     Pages = [
